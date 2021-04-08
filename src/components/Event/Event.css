@@ -1,0 +1,10 @@
+.eventCard h5 {
+  font-size: 22px;
+}
+
+.eventCard {
+  cursor: pointer;
+  background-color: #e8f1f2;
+  border-radius: 10px;
+  padding: 10px;
+}
